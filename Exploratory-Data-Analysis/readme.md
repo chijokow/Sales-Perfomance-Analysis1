@@ -1,4 +1,4 @@
-# Step 3: Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
   > A. Identifying Best Selling Products
 ```python
 top_products = df.groupby('Product Name')['Sales ($)'].sum().sort_values(ascending=False).head(5)
