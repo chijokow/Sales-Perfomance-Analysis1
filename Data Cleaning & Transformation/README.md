@@ -1,4 +1,4 @@
-# Step 2: Data Cleaning & Preprocessing
+# Data Cleaning & Preprocessing
 > Before conducting any analysis, we must clean and prepare the dataset to ensure data accuracy.
 
 ```python
